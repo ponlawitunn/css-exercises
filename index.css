@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-      <meta charest="UTF-8">
-      <link href="index.css" rel="stylsheet">
-      <title>CSS exercises</title>
-</head>
-<body>
-      <h1>CSS exercises</h1>
-      <p class="firstParagraph">Paragraph</p>
-                     #firstParagraph{
-                          font-size: 30pt;
-                                                                                                                                                                                          }
-      <div id="first-div">Div
-      #first-div {
-           font-size: 25pt;
-                                                                                                                                                                   }
-          <p class="firstParagraphIn">First paragraph inside div</p>
-          <p>Second paragraph inside div</p>
-      </div>
-      <p>Paragraph</p>
-      <p>Paragraph</p>
-</body>
-</thml>
+#divAttribute {
+    font-size: 25px;
+}
+.firstClass {
+    font-size: 30px;
+}
